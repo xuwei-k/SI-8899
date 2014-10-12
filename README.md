@@ -1,5 +1,9 @@
 # https://issues.scala-lang.org/browse/SI-8899
 
+
+## https://travis-ci.org/xuwei-k/SI-8899/builds/37729416
+
+
 ```
 [error] (run-main-1) java.lang.AbstractMethodError
 java.lang.AbstractMethodError
