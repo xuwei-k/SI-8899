@@ -1,0 +1,4 @@
+language: scala
+
+script:
+  sbt scala2113/run
