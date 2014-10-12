@@ -17,3 +17,8 @@ java.lang.AbstractMethodError
         at java.lang.reflect.Method.invoke(Method.java:483)
 ```
 
+
+
+### LICENSE
+
+public domain
